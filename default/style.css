@@ -11,4 +11,6 @@ body{
     justify-content: center;
     align-items: center;
     font-family: "Roboto", sans-serif;
+    visibility: 100vh;
+    margin: 0;
 }
